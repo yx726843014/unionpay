@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="unionpay:war">
+    <output-path>$PROJECT_DIR$/../unionpay/target</output-path>
+    <root id="archive" name="unionpay-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="unionpay:war exploded" />
+    </root>
+  </artifact>
+</component>
